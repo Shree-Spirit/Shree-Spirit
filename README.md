@@ -11,12 +11,13 @@
 ## 💫 About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<h2>
 🔭 Building scalable backend systems  
 🤖 Working on AI Projects  
 🌱 Learning Cloud + DevOps  
 💡 Love solving real-world problems  
 ⚡ Clean Code + Fast Performance  
+</h2>
 
 ---
 
