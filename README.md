@@ -1,4 +1,5 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shridhar%20Gurav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;AI+Engineer;Backend+Developer;Building+Scalable+Systems;Always+Learning+New+Tech" />
@@ -6,7 +7,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shridhar%20Gurav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ## 💫 About Me
 
